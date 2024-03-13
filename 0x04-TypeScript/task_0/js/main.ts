@@ -8,15 +8,15 @@ interface Student {
 const student1: Student = {
   firstName: "John",
   lastName: "Doe",
-  age: 23,
-  location: "Barcelona"
+  age: 25,
+  location: "New York"
 };
 
 const student2: Student = {
   firstName: "Jane",
   lastName: "Doe",
-  age: 21,
-  location: "Texas"
+  age: 23,
+  location: "London"
 };
 
 const studentsList: Student[] = [student1, student2];
